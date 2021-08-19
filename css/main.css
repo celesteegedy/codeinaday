@@ -1,0 +1,34 @@
+body {
+  background: #FFCC00;
+}
+
+h1 {
+  color: blue;
+
+}
+h1 header
+
+.banner {
+  max-width: 49%;
+}
+
+.facts li {
+  color: : blue;
+}
+
+.Lies {
+  border: 3px solid red;
+}
+
+li.urgent {
+  color: red;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+      backround: blue;
+    }
+    .banner {
+      max-width: 49%;
+    }
+}
